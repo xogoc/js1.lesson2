@@ -1,0 +1,1 @@
+alert(null == 0); //false - хоть null и 0 логически false, null ничему не равен, кроме undefined и самого себя
